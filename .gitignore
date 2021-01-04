@@ -1,5 +1,9 @@
-pre_trainned/
+*.bin
+*.tsv
+*.zip
+wikiextractor/
 data/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
